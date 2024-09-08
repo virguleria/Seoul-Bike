@@ -34,13 +34,12 @@ Data Preprocessing
 ## Exploratory Data Analysis (EDA)
 ### Some key observations from EDA:
 
-****Season**: **The demand for bikes is lower during the winter season.
-** **Holiday**: **Bike demand is lower on holidays but higher on non-holidays, as people likely use bikes for commuting to work.
-** Functioning Day**: No bike demand is observed on non-functioning days.
+**Season:** The demand for bikes is lower during the winter season.
+**Holiday: **Bike demand is lower on holidays but higher on non-holidays, as people likely use bikes for commuting to work.
+**Functioning Day:** No bike demand is observed on non-functioning days.
 **Days of the Week:** The demand patterns differ between weekdays and weekends. On weekends, demand spikes in the afternoon, while on weekdays, the demand is high during office hours.
 **Month:** Demand is low in the winter months of December, January, and February.
 **Year:** Bike demand increased significantly in 2018 compared to 2017, likely due to increased awareness of the bike-sharing program.
-
 ## Data Skewness
 Right Skewed Columns: Rented Bike Count, Wind speed, Solar Radiation, Rainfall, Snowfall
 Left Skewed Columns: Visibility, Dew point temperature
