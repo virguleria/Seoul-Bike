@@ -36,7 +36,7 @@ Data Preprocessing
 
 **Season:** The demand for bikes is lower during the winter season.
 
-****Holiday:**  Bike demand is lower on holidays but higher on non-holidays, as people likely use bikes for commuting to work.
+**Holiday:**  Bike demand is lower on holidays but higher on non-holidays, as people likely use bikes for commuting to work.
 
 **Functioning Day:** No bike demand is observed on non-functioning days.
 
